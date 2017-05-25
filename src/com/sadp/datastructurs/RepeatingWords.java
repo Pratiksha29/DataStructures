@@ -3,6 +3,7 @@ package com.sadp.datastructurs;
 import java.util.HashMap;
 import java.util.Map;
 
+//to get the repeated words in a given string using Hashmaps
 public class RepeatingWords {
 
 	public static void main(String[] args) {
